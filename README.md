@@ -1,6 +1,7 @@
 # DesafioDynamics-DIO
 
 Entendendo o Desafio
+
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático!
  
 O desafio deste projeto consiste na criação de um aplicativo do tipo Canvas (Tela).
